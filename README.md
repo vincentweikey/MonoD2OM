@@ -140,3 +140,18 @@ This work builds upon the following excellent projects:
 - [MonoDGP](https://github.com/PuFanqi23/MonoDGP)
 - [DINO](https://github.com/IDEA-Research/DINO)
 - [DN-DETR](https://github.com/IDEA-Research/DN-DETR)
+
+
+## Citation
+```
+@article{WEI2026117140,
+title = {D2OM: Depth-aware dynamic matching for DETR-based monocular 3D detection},
+journal = {Knowledge-Based Systems},
+volume = {354},
+pages = {117140},
+year = {2026},
+issn = {0950-7051},
+doi = {https://doi.org/10.1016/j.knosys.2026.117140},
+author = {Chenfeng Wei and Si Zuo and Chang Li and Menghao Yang and Yafei Qi and Guotao Xie and Shenhong Wang and Zeyu Yang},
+}
+```
